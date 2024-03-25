@@ -1,6 +1,6 @@
 baseURL = 'https://gabecafe.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Site'
 theme = 'smol'
 
 [outputs]
