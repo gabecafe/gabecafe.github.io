@@ -9,7 +9,7 @@ tags = ['anime']
 
 # Ideas
 
- - My 3x3's (this is the stuff that I like)
+ - My 3x3's (this is the stuff I like)
  - Record collection (post by genre)
  - Monthly content roundup
  - Dedicated posts to longform content rabbit holes that I have been on (i.e. Hideaki Anno, Yoshitoshi Abe)
