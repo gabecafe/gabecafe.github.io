@@ -10,7 +10,7 @@ The short answer is, I want to encourage myself to be a more conscious and thoug
 
 **What will be contained on this blog?**
 
-I have a lot of interests, and there are often things that fade in and out that may appear here, but there will be some constants. You can expect at the very least for me to write about music, anime, and my collection of media (both physical and digital). I also occasionally play some games, but that has taken more of a backseat lately. I have designs to write about the status of my record, manga, and art book collections, a regular series of post keeping up with my current media consumption, and maybe some long form posts analyzing artists or pieces of media I am into at the moment. I am going to keep it open as I want this to be space to be an enabler to my hobbies, not something that takes away from it. 
+I have a lot of interests, and there are often things that fade in and out that may appear here, but there will be some constants. You can expect at the very least for me to write about music, anime, and my collection of media (both physical and digital). I also occasionally play some games, but that has taken more of a backseat lately. I have designs to write about the status of my record, manga, and art book collections, a regular series of post keeping up with my current media consumption, and maybe some long form posts analyzing artists or pieces of media I am into at the moment. I am going to keep it open as I want this space to be an enabler to my hobbies, not something that takes away from it. 
 
 **Why does this site look like it does?**
 
