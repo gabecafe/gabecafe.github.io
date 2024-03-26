@@ -1,4 +1,4 @@
-baseURL = 'https://gabecafe.github.io/'
+baseURL = 'https://gabe.cafe/'
 languageCode = 'en-us'
 title = "Gabe's Media Cafe"
 theme = 'smol'
